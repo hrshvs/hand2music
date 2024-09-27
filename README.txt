@@ -10,6 +10,8 @@
 
 "mn6.py"    this is the improvised version of "mn5.py", but overlap is reduced to a good extent but noise is there while playing.
 
+"mn7.py"    this is the final version to be demonstrated, it has all gesture features planned, and the music generation is same as previous program
+
 "mnp1.py"    this is based on completely changed base code than all other version, but is worse. (not recommended to work on)
 
-Note: if any change must be done, then refer to "mn6.py" as it is the most refined one.
+Note: if any change must be done, then refer to "mn7.py" as it is the most refined one.
