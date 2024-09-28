@@ -87,7 +87,7 @@ def music_generator(coord_queue,frequency):
 def camera_input(coord_queue,frequency):    
     mp_hands = mp.solutions.hands
     hands = mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.8)
-    cap = cv2.VideoCapture(2)
+    cap = cv2.VideoCapture(0)
 
     while cap.isOpened():
         ret, frame = cap.read()
